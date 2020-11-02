@@ -1,0 +1,13 @@
+.box{
+    position: relative;
+    margin: 50px 400px 100px;
+    border-radius: 6px;
+  }
+
+.title{
+	margin: 20px;
+}
+
+.combo{
+  position: relative;
+}

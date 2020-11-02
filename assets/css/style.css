@@ -1,0 +1,92 @@
+* {
+    font-family: "Trebuchet MS";
+}
+
+.label {
+    margin-top: 10px;
+    float: left;
+    text-align: left;
+    width: 100%;
+}
+
+.input {
+    padding: 6px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #f8f8f8;
+    border: 2px solid #ccc;
+}
+
+.div {
+    width: 100%;
+    height: auto;
+}
+
+.base {
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ededed;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 70%;
+    margin: 10px auto 10px auto;
+}
+
+table thead th {
+    background-color: rgb(182, 182, 182);
+    border: solid 1px rgb(182, 182, 182);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+    text-decoration: none;
+}
+
+table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+button {
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    margin-top: 20px;
+}
